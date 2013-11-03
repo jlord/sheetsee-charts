@@ -1,0 +1,22 @@
+{
+  "name": "sheetsee-charts",
+  "version": "0.0.0",
+  "description": "enables chart creation functionality with sheetsee.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jlord/sheetsee-charts.git"
+  },
+  "author": "Jessica Lord",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/jlord/sheetsee-charts/issues"
+  },
+  "keywords": [
+    "spreadsheet",
+    "maps"
+  ],
+  "dependencies": {
+    "d3": "~3.2.8"
+  },
+}
