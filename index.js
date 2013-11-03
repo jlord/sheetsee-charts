@@ -1,3 +1,7 @@
+var d3 = require('d3')
+
+module.exports.d3 = d3
+
 // Bar Chart
 // Adapted mostly from http://bl.ocks.org/mbostock/3885705
 // options = {units: "string", labels: "string", m: [60, 150, 30, 150], w: 800, h: 300, div: "#dogBar", xaxis: "cuddlability", hiColor: "#EE0097"}
