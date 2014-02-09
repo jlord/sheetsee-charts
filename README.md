@@ -1,6 +1,6 @@
 # Sheetsee-charts
 
-_[View Demo](/demos/demo-chart.html)_
+see: [jlord.github.io/sheetsee.js](jlord.github.io/sheetsee.js)
 
 Sheetsee.js provides three [D3.js](http://d3js.org/) chart options to use with your spreadsheet data: a bar chart, line graph and pie chart. You can also use a custom D3 chart with Sheetsee, read about that [here](custom-charts.md).
 
