@@ -1,3 +1,7 @@
+:rotating_light: **This library will not be supported in future versions of Sheetsee.js**. Here's [more info](https://github.com/jlord/sheetsee-charts/issues/2).
+
+---
+
 # Sheetsee-charts
 
 see: [jlord.github.io/sheetsee.js](jlord.github.io/sheetsee.js)
